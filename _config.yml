@@ -48,8 +48,11 @@ social_media:
 topics:
   - name: Android
     web_url: https://developers.android.com
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/android/android.png
 
   - name: Flutter
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flutter/flutter.png
+
 
   - name: Machine Learning
 
