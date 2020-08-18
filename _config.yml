@@ -1,3 +1,10 @@
+name: walkeratmind.github.io
+
+on:
+  push:
+    branches:
+      -master
+
 layout: sidebar
 style: dark
 
