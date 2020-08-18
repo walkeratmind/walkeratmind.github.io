@@ -1,9 +1,9 @@
-name: walkeratmind.github.io
+title: walkeratmind.github.io
+repository: walkeratmind/walkeratmind.github.io
 
 on:
   push:
-    branches:
-      -master
+    branches: -master
 
 layout: sidebar
 style: dark
@@ -35,20 +35,20 @@ projects:
     # - repo-name
 
 social_media:
-# behance: your_username
-# dribbble: your_username
+  # behance: your_username
+  # dribbble: your_username
   facebook: rakesh.niraula.9
   hackerrank: rakeshhniraulaa
   instagram: rakesh_niraula
-# keybase: your_username
+  # keybase: your_username
   linkedin: rakesh-niraula-5596b013a
-# mastodon: your_username
+  # mastodon: your_username
   medium: rakeshhniraulaa
   stackoverflow: 7456695/walker-at-mind
-# telegram: your_username
+  # telegram: your_username
   twitter: Walker_at_Mind
-# unsplash: your_username
-# vk: your_username
+  # unsplash: your_username
+  # vk: your_username
   website: http://rakeshniraula.com.np
 # youtube: your_username
 
@@ -59,7 +59,6 @@ topics:
 
   - name: Flutter
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flutter/flutter.png
-
 
   - name: Machine Learning
 
