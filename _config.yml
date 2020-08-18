@@ -1,6 +1,8 @@
 title: walkeratmind.github.io
 repository: walkeratmind/walkeratmind.github.io
 
+incremental: true
+
 on:
   push:
     branches: -master
